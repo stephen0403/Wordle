@@ -1,3 +1,6 @@
+## We end the game if:
+## 1) The word is guessed 
+## 2) All guesses are used
 import pygame
 import sys
 import random
